@@ -1,5 +1,6 @@
-package br.com.lanzoni;
+package br.com.lanzoni.application;
 
+import br.com.lanzoni.Pessoa;
 import org.springframework.context.ApplicationContext;
 import org.springframework.context.annotation.AnnotationConfigApplicationContext;
 import org.springframework.context.annotation.ComponentScan;
